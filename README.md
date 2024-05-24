@@ -1,7 +1,8 @@
 # Image_Slider
-Soil farming, also known as soil management, is a crucial practice aimed at 
-maintaining and improving soil health, which is essential for sustainable agriculture. 
-Effective soil management ensures long-term agricultural productivity, environmental health, and food security.
-The proposed application admin would update the information in the portal and crop distributor details 
-with the help of soil and crop specialists. These soil and distributor details can be viewed by the user. 
+An image slider, also known as an image carousel is a user interface component used on websites  
+to display a series of images in a  in a visually appealing way. The proposed application implement
+navigation controls (previous and next buttons) that allow users to manually navigate through the images in the slider. 
+It ensures that the slider loops back to the first image when reaching the end.
+The ‘Auto’ button automatically slides to the next image after a certain time interval.
+ 
 
